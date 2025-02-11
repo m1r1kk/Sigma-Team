@@ -1,0 +1,9 @@
+body{
+    font-family: verdana;
+    font-size: medium;
+    background-color: aqua;
+}
+
+#headerr, #footerr{
+background-color: aqua;
+}
